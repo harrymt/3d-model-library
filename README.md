@@ -1,6 +1,6 @@
 # Queens Library: 3D Render
 
-A 3D model of Queens Library (University of Bristol) using Maya.
+A 3D model of Queens Library (University of Bristol) using [Autodesk Maya](https://www.autodesk.co.uk/products/maya/overview).
 
 ![Queens Library Render](render.jpg)
 
